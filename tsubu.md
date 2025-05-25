@@ -10,8 +10,10 @@ qmk setup tanakamanabu/qmk_firmware
  - ファームの書き込みには [QMKToolBox](https://qmk.fm/toolbox)を使います
  - Auto FlushをオンにしてProMicroをダブルクリックで運が良ければ書き込めます
 ## 詳細
-### [Ergodash](keybords/omkbd/ergodash/rev1/keymaps/tsubu)
+### [Ergodash](keyboards/omkbd/ergodash/rev1/keymaps/tsubu)
 ~~~shell
  qmk compile -kb omkbd/ergodash/rev1 -km tsubu
 ~~~
  
+### [Iris](keyboards/keebio/iris/keymaps/tsubu)
+ - 過去の遺産なので動かないと思うけど記念に残しておく
